@@ -1,7 +1,12 @@
-### Hi there 👋
-
+### Hi!👋, I'm Wonbeen Na. 
+---
+![스크린샷 2021-07-23 오후 5 04 49](https://user-images.githubusercontent.com/74464061/126753999-0c1f0bbd-fd18-432f-a81a-8793e30820ac.png)
+--
+- Email : nwbnwb@naver.com
+- Blog : [WonBeen Blog](https://www.notion.so/Been-38c479097c3e4ebcb6d5ede959f5d5c3)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbeenna)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbeenna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wonbeenna/wonbeenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
