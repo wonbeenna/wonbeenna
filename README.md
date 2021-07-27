@@ -1,6 +1,7 @@
 ### Hi!👋, I'm Wonbeen Na. 
 ---
-![스크린샷 2021-07-23 오후 5 04 49](https://user-images.githubusercontent.com/74464061/126753999-0c1f0bbd-fd18-432f-a81a-8793e30820ac.png)
+![image](https://user-images.githubusercontent.com/74464061/127194577-7814d803-170a-42e3-b991-6983e20a6c32.png)
+
 --
 - Email : nwbnwb@naver.com
 - Blog : [WonBeen Blog](https://www.notion.so/Been-38c479097c3e4ebcb6d5ede959f5d5c3)
