@@ -2,6 +2,7 @@
 ---
 ![image](https://user-images.githubusercontent.com/74464061/127785057-7a354663-6517-413a-a214-c244bf890626.png)
 ---
+## Contact
 - Email : nwbnwb@naver.com
 - Blog : [WonBeen Blog](https://www.notion.so/Been-38c479097c3e4ebcb6d5ede959f5d5c3)
 ## Projects
