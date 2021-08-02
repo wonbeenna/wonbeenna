@@ -7,7 +7,8 @@
 ## Projects
 - https://been-portfolio.com
 - https://tmtrips.com
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbeenna)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbeenna&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbeenna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
