@@ -4,7 +4,7 @@
 ---
 ## Contact
 - Email : nwbnwb@naver.com
-- Blog : [WonBeen Blog](https://www.notion.so/Been-38c479097c3e4ebcb6d5ede959f5d5c3)
+- Blog : [WonBeen Blog](https://wonbeenna.github.io/)
 ## Projects
 - [WebPortFolio](https://been-portfolio.com)
 - [FirstProject](https://dontstop.site/)
