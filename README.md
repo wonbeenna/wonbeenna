@@ -6,7 +6,7 @@ TS, JS, React, RN, NodeJS
 ---
 ## Contact
 - Email : nwbnwb@naver.com
-- Blog : [WonBeen Blog](https://wonbeenna.github.io/)
+- Blog : [WonBeen Blog](https://been.tistory.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbeenna&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbeenna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
